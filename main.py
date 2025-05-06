@@ -83,3 +83,5 @@ data1 = [
 ]
 df2 = pd.DataFrame(data1, columns=['Имя', 'Возраст', 'Город'])
 print(df2)
+
+///
